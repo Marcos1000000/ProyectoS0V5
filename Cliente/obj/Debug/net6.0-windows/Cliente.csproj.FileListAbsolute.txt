@@ -1,0 +1,32 @@
+D:\descargas\Cliente interfaz\Cliente\bin\Debug\net6.0-windows\Cliente.exe
+D:\descargas\Cliente interfaz\Cliente\bin\Debug\net6.0-windows\Cliente.deps.json
+D:\descargas\Cliente interfaz\Cliente\bin\Debug\net6.0-windows\Cliente.runtimeconfig.json
+D:\descargas\Cliente interfaz\Cliente\bin\Debug\net6.0-windows\Cliente.dll
+D:\descargas\Cliente interfaz\Cliente\bin\Debug\net6.0-windows\Cliente.pdb
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.Form1.resources
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.csproj.GenerateResource.cache
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.AssemblyInfoInputs.cache
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.AssemblyInfo.cs
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.csproj.CoreCompileInputs.cache
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.dll
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\refint\Cliente.dll
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.pdb
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\Cliente.genruntimeconfig.cache
+D:\descargas\Cliente interfaz\Cliente\obj\Debug\net6.0-windows\ref\Cliente.dll
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\bin\Debug\net6.0-windows\Cliente.exe
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\bin\Debug\net6.0-windows\Cliente.deps.json
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\bin\Debug\net6.0-windows\Cliente.runtimeconfig.json
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\bin\Debug\net6.0-windows\Cliente.dll
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\bin\Debug\net6.0-windows\Cliente.pdb
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.Form1.resources
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.dll
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\refint\Cliente.dll
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.pdb
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\Cliente.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\UPC\Proyectos Anteriores SO\David cliente\Cliente\Cliente\obj\Debug\net6.0-windows\ref\Cliente.dll
